@@ -12,5 +12,5 @@
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="typescript" src="https://img.shields.io/badge/RUBY-FF0000?style=for-the-badge&logo=ruby&logoColor=white" />
+  <img align="center" alt="typescript" src="https://img.shields.io/badge/RUBY-8B0000?style=for-the-badge&logo=ruby&logoColor=white" />
 </div>
