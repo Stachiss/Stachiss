@@ -6,7 +6,6 @@
 
 <div style="display: inline-block">
   
-  <!-- HTML, CSS and JS related -->
   <img alt="HTML" width="40" src="https://seeklogo.com/images/H/html5-without-wordmark-color-logo-14D252D878-seeklogo.com.png"/>
   &nbsp &nbsp
   <img alt="CSS" width="40" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"/>
@@ -21,7 +20,6 @@
   <img alt="NodeJS" width="40" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" />
   &nbsp &nbsp
   
-  <!--- C# related --->
   <img alt="CSharp" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
   &nbsp &nbsp
   <img alt="Unity" width="50" src="https://logodix.com/logo/780673.png" />
