@@ -24,7 +24,7 @@
   <!--- C# related --->
   <img alt="CSharp" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
   &nbsp &nbsp
-  <img alt="Unity" width="40" src="https://logodix.com/logo/780601.png" />
+  <img alt="Unity" width="40" src="https://logodix.com/logo/780673.png" />
   &nbsp &nbsp
   
   <img alt="MySQL" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
