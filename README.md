@@ -20,20 +20,14 @@
   &nbsp &nbsp
   <img alt="NodeJS" width="40" src="https://seeklogo.com/images/N/nodejs-logo-54107C5EDD-seeklogo.com.png" />
   &nbsp &nbsp
-  <img alt="ReactJS" width="40" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" />
-  &nbsp &nbsp
   
   <!--- C# related --->
   <img alt="CSharp" width="40" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
   &nbsp &nbsp
-  <img alt="DotNet" width="40" src="https://seeklogo.com/images/M/microsoft-net-framework-logo-B9BA1A3DA1-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="xUnit" width="40" src="https://logodix.com/logo/2029138.png" />
+  <img alt="Unit" width="40" src="https://logodix.com/logos/780605" />
   &nbsp &nbsp
   
   <img alt="MySQL" width="40" src="https://seeklogo.com/images/M/mysql-logo-B4943FE6DD-seeklogo.com.png" />
-  &nbsp &nbsp
-  <img alt="SQLite" width="80" src="https://seeklogo.com/images/S/sqlite-logo-5E9F462E6A-seeklogo.com.png" />
   &nbsp &nbsp
   
   <img alt="VSCode" width="40" src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" />
