@@ -42,3 +42,13 @@
   <img alt="Python" width="40" src="https://seeklogo.com/images/P/python-logo-A32636CAA3-seeklogo.com.png" />
   &nbsp &nbsp
 </div>
+
+
+ <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
+  <!--- ![Snake animation](https://github.com/analuizags/analuizags/blob/output/github-contribution-grid-snake.svg) --->
+</div>
