@@ -1,7 +1,5 @@
 ### Olá! Eu sou o Stachiss 👋
 
-![Stachiss GitHub stats](https://github-readme-stats.vercel.app/api?username=Stachiss&show_icons=true&theme=tokyonight)
-
 ## Linguagens que utilizo no meu dia a dia
 
 <div style="display: inline-block">
