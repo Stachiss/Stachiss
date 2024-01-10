@@ -8,8 +8,6 @@
   &nbsp &nbsp
   <img alt="CSS" width="40" src="https://seeklogo.com/images/C/css-3-logo-023C1A7171-seeklogo.com.png"/>
   &nbsp &nbsp
-  <img alt="Bootstrap" width="40" src="https://seeklogo.com/images/B/bootstrap-logo-3C30FB2A16-seeklogo.com.png"/>
-  &nbsp &nbsp
   
   <img alt="Javascript" width="40" src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" />
   &nbsp &nbsp
